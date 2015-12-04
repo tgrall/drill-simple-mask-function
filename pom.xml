@@ -6,7 +6,7 @@
 
     <groupId>org.apache.drill.contrib.function</groupId>
     <artifactId>drill-simple-mask</artifactId>
-    <version>1.0</version>
+    <version>1.3</version>
     <name>Drill Mask Function</name>
 
 
